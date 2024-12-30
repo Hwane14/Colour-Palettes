@@ -1,5 +1,5 @@
 /// Generating computational palettes.
-/// Created by Dr Prashanth Thattai p.thattairavikumar@gold.ac.uk> 2024
+/// Created by Hamidou Wane > 2024
 /// Adapted from Evan Raskob <e.raskob@gold.ac.uk> 2023
 
 /// - Demonstrating using knowledge of colors, arrays, functions and loops to create palettes.
